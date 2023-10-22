@@ -1,5 +1,10 @@
 //*  your css code here. If applicable */
  .block-heading{
-	text-align:center;
+/* 	text-align:center; */
 	color:blue;
+}
+.summary{
+	border-top:1px solid #3ea4f3;
+	background-color:#f7fbff
+	padding:10px;
 }
